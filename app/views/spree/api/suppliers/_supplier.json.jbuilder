@@ -1,1 +1,1 @@
-json.(supplier, *supplier_attributes)
+json.(supplier, :name, :id)
